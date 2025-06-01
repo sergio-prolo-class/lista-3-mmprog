@@ -8,8 +8,8 @@ Laboratorio 3
 ## Sistema de Catálogo de Filmes 
 
 O prorama possui 3 pacotes
-Atendimento = Referente a fila de Atendimento
-Catalogo = Referente aos catalogos do filme
+Atendimento = Referente a fila de Atendimento /n
+Catalogo = Referente aos catalogos do filme /n
 App = o aplicativo que une ambos */
 
 ```mermaid
